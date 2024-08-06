@@ -63,7 +63,7 @@ let trackList = [
         name: "Minsan lang kita iibigin",
         artist: "Marielle",
         path: "./music/minsan lang kita iibigin.mp3",
-    }
+    },
     {
         name: "Love of my Life",
         artist: "Reyne",
