@@ -60,6 +60,11 @@ let soundBarsLottie = bodymovin.loadAnimation({
 
 let trackList = [
     {
+        name: "Minsan lang kita iibigin",
+        artist: "Marielle",
+        path: "./music/minsan lang kita iibigin.mp3",
+    }
+    {
         name: "Only",
         artist: "Lee Hi",
         path: "./music/only.mp3",
@@ -78,10 +83,6 @@ let trackList = [
         name: "The Only One",
         artist: "Reyne",
         path: "./music/the only one.mp3",
-    },{
-        name: "Minsan lang kita iibigin",
-        artist: "Marielle",
-        path: "./music/minsan lang kita iibigin.mp3",
     },
 ];
 
