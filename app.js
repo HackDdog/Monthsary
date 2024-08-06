@@ -65,9 +65,9 @@ let trackList = [
         path: "./music/minsan lang kita iibigin.mp3",
     }
     {
-        name: "Only",
-        artist: "Lee Hi",
-        path: "./music/only.mp3",
+        name: "Love of my Life",
+        artist: "Reyne",
+        path: "./music/love of my life.mp3",
     },
     {
         name: "Day & Night",
@@ -75,9 +75,9 @@ let trackList = [
         path: "./music/day and night.mp3",
     },
     {
-        name: "Love of my Life",
-        artist: "Reyne",
-        path: "./music/love of my life.mp3",
+        name: "Only",
+        artist: "Lee Hi",
+        path: "./music/only.mp3",
     },
     {
         name: "The Only One",
